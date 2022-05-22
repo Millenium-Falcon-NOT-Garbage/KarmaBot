@@ -1,4 +1,4 @@
-# This Program was made for the HighTechHacks Hackathon
+# This project was created for High Tech Hacks 2022
 import discord
 from discord.ext import commands
 
